@@ -1,7 +1,6 @@
 # VenezuelaPRUEBA.m3u8
 
 #EXTM3U 
-#EXTM3U 
 #EXTINF:-1 tvg-id="1081" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", telefe * | AR
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Canal_9_Argentina.png", El Nueve | AR
